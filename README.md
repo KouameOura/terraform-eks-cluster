@@ -1,4 +1,5 @@
-# Learn Terraform - Provision an EKS Cluster
+# full-devops-terraform-eks-infra
+this repository allows to build the AWS EKS infrastructure for the deployment of the full DevOps pipeline
 
-This repo is a companion repo to the [Provision an EKS Cluster learn guide](https://learn.hashicorp.com/terraform/kubernetes/provision-eks-cluster), containing
-Terraform configuration files to provision an EKS cluster on AWS.
+## Architecture
+![EKSclsuter](img/architecture.png)
